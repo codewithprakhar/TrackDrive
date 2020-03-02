@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940470059582",
+    "firebase_url": "https://trackdrive-8cb8c.firebaseio.com",
+    "project_id": "trackdrive-8cb8c",
+    "storage_bucket": "trackdrive-8cb8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940470059582:android:2cafa76d29c25d5c7ec76f",
+        "android_client_info": {
+          "package_name": "com.codewithprakhar.trackdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940470059582-efde5ujjdvlbv5q2qcvk156k9p7rpm1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithprakhar.trackdrive",
+            "certificate_hash": "7e8f9f4e1a45f76f374e48f112f89b1dc82b20cc"
+          }
+        },
+        {
+          "client_id": "940470059582-e9aou5ksaqbh5t26v5v9t7bu3a699onv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFW21BdNA1_7wAt8rzcil-CUTBxDe81Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940470059582-e9aou5ksaqbh5t26v5v9t7bu3a699onv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
